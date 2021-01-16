@@ -1,0 +1,111 @@
+html,
+body {
+
+
+    width: 70%;
+    height: 70%;
+}
+
+
+
+
+div {
+    width: 35px;
+    height: 6px;
+    background-color: rgba(0, 0, 0, 0.242);
+    margin: 6px;
+    left: 9px;
+    top: 30px;
+
+}
+
+#search-icon {
+
+    height: 40px;
+    width: 40px;
+    float: right;
+    top: -15px;
+    left: 10px;
+}
+
+
+
+
+
+#wikiimg {
+    width: 0px;
+    height: 0px;
+    background-attachment: rgba(221, 221, 221, 0.666);
+
+
+
+
+
+}
+
+.header {
+    padding: 25px;
+    width: 1500px;
+    text-align: center;
+    background: rgba(221, 221, 221, 0.468);
+    width: 80%;
+}
+
+.header img {
+    position: relative;
+    left: 30px;
+    top: -10px;
+    float: left;
+    width: 100px;
+    height: 30px;
+    background: #555;
+}
+
+.header h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+}
+
+
+
+
+#menu-icon {
+    float: left;
+    position: relative;
+    ;
+    width: auto;
+    height: 50px;
+    left: -125px;
+    top: -5mm;}
+
+
+
+    #html-logo {
+        width: 112px;
+        height: 112px;
+    }
+
+
+}
+
+table {
+
+    float: right;
+    font-family: arial, sans-serif;
+    border-collapse:;
+    width: 100%;
+    background-color: #dddddd;
+}
+
+td,
+th {
+    border: 1px solid;
+    text-align: left;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
