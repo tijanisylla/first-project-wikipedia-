@@ -1,0 +1,104 @@
+.wrapper {
+    background-color: #c8ccd16b;
+    height: 36px;
+    border: 12px  #c8ccd16b;
+    padding: 13px;
+
+
+}
+
+#input {
+    
+    padding: 6px;
+    font-size: 16px;
+    position: absolute;
+    text-align: left;
+    right: 300px;
+   
+   
+   
+  
+    
+  }
+  
+
+
+
+ #search-icon{
+   
+    line-height: 36px;
+    height: 36px;
+    position: absolute;
+    right: 100px;
+    color: transparent; 
+    float: right;
+} 
+
+
+
+
+
+
+#wiki-img {
+    display: inline-block;
+    line-height: 36px;
+    height: 36px;
+    position: absolute;
+   
+    
+
+
+
+}
+
+
+
+#menu-icon {
+  
+    line-height: 36px;
+    height: 36px;
+
+
+
+}
+
+
+
+#logo {
+    width: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+.note, .dablink, .rellink {
+    padding: 5px 7px;
+    color: #54595d;
+    font-size: 0.8125em;
+    background-color: #f8f9fa;
+    margin-bottom: 1px;
+    overflow: hidden;}
+
+
+
+.table {
+    width: 100%;
+    background-color: #dddddd;
+   
+    float: right;
+ 
+}
+
+td,
+th {
+    border: 1px solid;
+    text-align: left;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
