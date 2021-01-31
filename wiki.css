@@ -30,6 +30,19 @@ body {
     margin-top: -1px;
 
 }
+/* language - star...ect*/
+
+#star{
+    position: absolute;
+    right: 70px;
+    top: 143px;
+}
+
+#edit-log{
+    position: absolute;
+    right: 43px;
+    top: 143px;
+}
 
 .note {
     background-color: #f8f9fa;
